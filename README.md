@@ -58,3 +58,7 @@ The primary goal of this project was to develop an effective network anomaly det
      - **Environment Setup**: Python virtual environment, Flask, and necessary libraries.
      - **Model Integration**: Serialize and load the model.
      - **API Endpoints**: Define routes, preprocess data, and return prediction results.
+   ## Output:
+   ![FinalModelDeployedScreenshot](https://github.com/user-attachments/assets/b214feb9-bdfa-486c-9352-bf49eab66223)
+
+   
