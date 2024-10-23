@@ -1,4 +1,4 @@
-# Network Anomaly Detection Project Summary
+# Network Anomaly Detection Project
 
 ### Problem Statement
 Network anomaly detection involves identifying unusual patterns or behaviors in network traffic that deviate from the norm. These anomalies can indicate various security threats, including malware infections and large-scale cyber-attacks. Traditional methods relying on predefined rules often fail to detect new or evolving threats, making dynamic and robust anomaly detection crucial.
